@@ -9,7 +9,7 @@ touch index.js (ini akan menambahkan file index.js ke repository)
 4. git config -- global user.email 'ramadhaniabidin12@gmail.com' (ini juga sama dengan nomor 3)
 5. git add namafile (ini untuk menambahkan file ke dalam repository)
 6. git status 
-7. git commit
+7. git commit -m 'message commit'
 8. git clone (untuk clone dari repositroy di Github online)
 9. git push (upload ke Github online)
 10. git pull (download dari github online)
